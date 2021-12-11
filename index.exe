@@ -1,0 +1,4 @@
+cd C:\Users\[name]\Desktop\mcmdlogger
+node index.js [server minecraft] 1.12.2 [fake port is server]
+_____________________________________________________________
+bat.exe
